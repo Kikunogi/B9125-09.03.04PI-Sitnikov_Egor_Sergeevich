@@ -41,3 +41,6 @@ Visual Studio Code
 Русский — родной
 
 Английский — B1
+
+
+TG: @KaZa40ks
